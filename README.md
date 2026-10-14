@@ -1,5 +1,56 @@
-# 💫 About Me:
-# 👋 Hi, I'm Sudarshan!<br><br>### 🚀 AI Platform Engineer | Generative AI | Backend Development<br><br>I'm an **AI Platform Engineer at Evtaar Software Solutions**, passionate about building AI-powered applications, scalable backend services, and intelligent automation solutions.<br><br>- 🔭 **Currently working on:** AI-powered recruitment workflows, backend microservices, and Generative AI applications.<br>- 🤝 **Looking to collaborate on:** Generative AI, LLM applications, backend engineering, and open-source projects.<br>- 🌱 **Currently learning:** Advanced LLM applications, AI system architecture, cloud technologies, and scalable microservices.<br>- 💬 **Ask me about:** Python, Go, Gin, REST APIs, Generative AI, LangChain, PostgreSQL, and Machine Learning.<br>- ⚡ **Fun fact:** I enjoy turning complex problems into practical AI-powered solutions.<br><br>---<br><br>### 🛠️ Tech Stack<br><br>**Languages:** Python, Go, SQL<br><br>**AI & Machine Learning:** Generative AI, LLMs, OpenAI, LangChain, Ollama, NLP, Scikit-learn<br><br>**Backend:** Go, Gin, REST APIs, PostgreSQL<br><br>**Cloud & DevOps:** AWS, Amazon S3, Docker, Git, GitHub<br><br>**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn<br><br>**Frontend:** React, JavaScript<br><br>---<br><br>### 🚀 Featured Projects<br><br>- **Customer Churn Prediction** — Built Random Forest and XGBoost models to predict customer churn.<br>- **British Airways Customer Feedback Analysis** — Applied NLP and machine learning to analyze customer feedback.<br>- **Email Spam Detection** — Developed text classification models using TF-IDF, Naive Bayes, Logistic Regression, and SVM.<br><br>---<br><br>### 📫 Connect With Me<br><br>- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/usa-sudarshan/)<br>- 📧 Email: sudarshanusa18@gmail.com<br><br>⭐ Feel free to explore my repositories and connect with me!<br>
+💫 About Me:
+
+👋 Hi, I'm Sudarshan!
+
+🚀 AI Platform Engineer | Generative AI | Backend Development
+
+I'm an AI Platform Engineer at Evtaar Software Solutions, passionate about building AI-powered applications, scalable backend services, and intelligent automation solutions.
+
+🔭 Currently working on: AI-powered recruitment workflows, backend microservices, and Generative AI applications.
+
+🤝 Looking to collaborate on: Generative AI, LLM applications, backend engineering, and open-source projects.
+
+🌱 Currently learning: Advanced LLM applications, AI system architecture, cloud technologies, and scalable microservices.
+
+💬 Ask me about: Python, Go, Gin, REST APIs, Generative AI, LangChain, PostgreSQL, and Machine Learning.
+
+⚡ Fun fact: I enjoy turning complex problems into practical AI-powered solutions.
+
+---
+
+🛠️ Tech Stack
+
+Languages: Python, Go, SQL
+
+AI & Machine Learning: Generative AI, LLMs, OpenAI, LangChain, Ollama, NLP, Scikit-learn
+
+Backend: Go, Gin, REST APIs, PostgreSQL
+
+Cloud & DevOps: AWS, Amazon S3, Docker, Git, GitHub
+
+Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
+
+Frontend: React, JavaScript
+
+---
+
+🚀 Featured Projects
+
+• Customer Churn Prediction — Built Random Forest and XGBoost models to predict customer churn.
+
+• British Airways Customer Feedback Analysis — Applied NLP and machine learning to analyze customer feedback.
+
+• Email Spam Detection — Developed text classification models using TF-IDF, Naive Bayes, Logistic Regression, and SVM.
+
+---
+
+📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/usa-sudarshan/
+
+📧 Email: sudarshanusa18@gmail.com
+
+⭐ Feel free to explore my repositories and connect with me!
 
 
 ## 🌐 Socials:
